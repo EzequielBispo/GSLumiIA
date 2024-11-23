@@ -3,6 +3,16 @@
 
 Lumi é um projeto focado na automação e controle de iluminação com base em dados de sensores de luminosidade. Ele coleta dados de sensores internos e externos e calcula a intensidade ideal da lâmpada para garantir a melhor eficiência energética.
 
+## Integrantes
+
+Ezequiel Bispo de Jesus - RM 99573 - Turma 2TDSPY
+
+Helena Cristina - RM 551873 - Turma 2TDSPY
+
+Kelvin Gomes - RM 98126 - Turma 2TDSPN
+
+Leonardo Seiti - RM 550207 - Turma 2TDSPN
+
 ## Funcionalidades
 
 - **Leitura de sensores**: Coleta de dados de sensores de iluminação interna e externa.
